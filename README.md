@@ -3,7 +3,7 @@ Repository met documentatie voor het streamen.
 
 # Inhoud
 
-* Inleiding
+* [Inleiding](inleiding.md)
 
 * Opbouw
 
