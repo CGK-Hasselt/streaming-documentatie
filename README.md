@@ -17,10 +17,14 @@ Dit document is bedoeld als hulp bij het live streamen van de CGK Hasselt kerkdi
 
 # Algemeen
 Het hart van de installatie is een switcher, de ATEM Television Studio HD. Hier komen alle video- en geluidsbronnen samen, worden ze gemixt en vervolgens naar de juiste uitgang gestuurd. 
-![alt text](https://github.com/CGK-Hasselt/streaming-documentatie/Functioneel%20schema.png "Functioneel schema")
+![alt text](https://github.com/CGK-Hasselt/streaming-documentatie/blob/master/Functioneel%20schema.png "Functioneel schema")
 De ATEM is in principe te bedienen met de knoppen aan de voorkant, maar in de praktijk doen we dit via de randapparatuur: monitor, laptop en Streamdeck knoppenpaneel.
 
 # Opbouwen
+
+![alt text](https://github.com/CGK-Hasselt/streaming-documentatie/blob/master/patchpanel.png)
+
+https://github.com/CGK-Hasselt/streaming-documentatie/blob/master/patchpanel.png
 
 # Bediening
 ## Starten apparatuur
