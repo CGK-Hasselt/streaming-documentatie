@@ -1,9 +1,9 @@
 # streaming-documentatie
-Repository met documentatie voor het streamen.
+Hier vind je alle informatie voor het streamteam. Lees op deze pagina verder over technische informatie, of ga naar de [Praktische introductie](introductie.md) voor meer info over de manier van werken.
 
 # Inhoud
 
-* [Inleiding](inleiding.md)
+* Inleiding
 
 * Algemeen
 
